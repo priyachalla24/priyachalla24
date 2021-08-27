@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyachalla24
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning matlab
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me challasaipriya99@gmail.com
 
